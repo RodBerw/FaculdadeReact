@@ -1,0 +1,9 @@
+h1 {
+  text-align: center;
+}
+
+.movieImg {
+  padding-top: 10px;
+  height: 300px;
+  object-fit: contain;
+}
